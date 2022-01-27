@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21898388.css",
+    "main.js": "/static/js/main.c2737349.js",
+    "static/js/787.3461ff94.chunk.js": "/static/js/787.3461ff94.chunk.js",
+    "static/media/IMG_1043@2x.png": "/static/media/IMG_1043@2x.34fd6efc90aad3dbc378.png",
+    "static/media/SERVICES BACKGROUND@2x.png": "/static/media/SERVICES BACKGROUND@2x.d1663acec3b0e45cf5ea.png",
+    "static/media/IMG_0996@2x.png": "/static/media/IMG_0996@2x.1201f0ed640b860e9ad4.png",
+    "static/media/BACKGROUND-1@2x.png": "/static/media/BACKGROUND-1@2x.a9d18c34225140770ce3.png",
+    "static/media/Picture-3-2-1024x683@2x.png": "/static/media/Picture-3-2-1024x683@2x.fdbd588d9e48f1ee6714.png",
+    "static/media/IMG_1039@2x.png": "/static/media/IMG_1039@2x.930821345033c9cb06d7.png",
+    "static/media/elect@2x.png": "/static/media/elect@2x.73d0df58afa3ad9fb3e6.png",
+    "static/media/IMG_1041@2x.png": "/static/media/IMG_1041@2x.3fa5d40daf1093f5f7e3.png",
+    "static/media/IMG_0993@2x.png": "/static/media/IMG_0993@2x.eb0fb7e00e6d6ee46eda.png",
+    "static/media/IMG_0997@2x.png": "/static/media/IMG_0997@2x.4cc9baf30776834f630b.png",
+    "static/media/IMG_1042@2x.png": "/static/media/IMG_1042@2x.a26e8aadfa18921ed0d4.png",
+    "static/media/IMG_1002@2x.png": "/static/media/IMG_1002@2x.fe43c56f940501f1b1fc.png",
+    "static/media/IMG_1037@2x.png": "/static/media/IMG_1037@2x.ca73285b9ab66ff3876d.png",
+    "static/media/IMG_1035@2x.png": "/static/media/IMG_1035@2x.9adb8421c7f3306e2d4c.png",
+    "static/media/IMG_1034@2x.png": "/static/media/IMG_1034@2x.bacc89032ed56de3bcf8.png",
+    "static/media/IMG_0995@2x.png": "/static/media/IMG_0995@2x.797dd87f50447c9a6fd0.png",
+    "static/media/chandelier-fixing@2x.png": "/static/media/chandelier-fixing@2x.c535cbb86dff0ec8eacf.png",
+    "static/media/cctv-installation@2x.png": "/static/media/cctv-installation@2x.40fa2e9ac3ff0627ff74.png",
+    "static/media/light-fitting@2x.png": "/static/media/light-fitting@2x.9bef7341b7ad54bde5ce.png",
+    "static/media/house wiring@2x.png": "/static/media/house wiring@2x.4e4da4fc8ca77e342a1f.png",
+    "static/media/solar-installation@2x.png": "/static/media/solar-installation@2x.b818eb72e2fe60d7889a.png",
+    "static/media/piping@2x.png": "/static/media/piping@2x.52b1bd49fe17a3e51005.png",
+    "static/media/bulbs-fixing@2x.png": "/static/media/bulbs-fixing@2x.2d8181e280521279753b.png",
+    "static/media/sockets-fixing@2x.png": "/static/media/sockets-fixing@2x.9aabcd8b3473110b9904.png",
+    "index.html": "/index.html",
+    "main.21898388.css.map": "/static/css/main.21898388.css.map",
+    "main.c2737349.js.map": "/static/js/main.c2737349.js.map",
+    "787.3461ff94.chunk.js.map": "/static/js/787.3461ff94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21898388.css",
+    "static/js/main.c2737349.js"
+  ]
+}
